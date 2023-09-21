@@ -2,7 +2,7 @@
 
 This is a theme switcher app created by using Reactjs.
 
-####Technical stack
+#### Technical stack
 
 - Reactjs
 - Hooks
