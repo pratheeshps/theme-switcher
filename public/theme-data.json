@@ -1,0 +1,50 @@
+{
+    "light": {
+        "id": "light",
+        "name": "Light",
+        "colors": {
+            "body": "#FFFFFF",
+            "text": "#000000",
+            "button": {
+                "text": "#FFFFFF",
+                "background": "#000000"
+            }
+        }
+    },
+    "dark": {
+        "id": "dark",
+        "name": "Dark",
+        "colors": {
+            "body": "#000000",
+            "text": "#FFFFFF",
+            "button": {
+                "text": "#000000",
+                "background": "#FFFFFF"
+            }
+        }
+    },
+    "purple": {
+        "id": "purple",
+        "name": "Purple",
+        "colors": {
+            "body": "#5B0888",
+            "text": "#E5CFF7",
+            "button": {
+                "text": "#fffff",
+                "background": "#713ABE"
+            }
+        }
+    },
+    "brown": {
+        "id": "brown",
+        "name": "Brown",
+        "colors": {
+            "body": "#9A3B3B",
+            "text": "#F2ECBE",
+            "button": {
+                "text": "#F2ECBE",
+                "background": "#C08261"
+            }
+        }
+    }
+}
